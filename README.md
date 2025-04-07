@@ -144,10 +144,12 @@ void IRPAIR()
 
 ## OUTPUT
  ## LED OFF
- ![OFF](https://github.com/user-attachments/assets/20e6307e-197a-4226-bb01-074594f40170)
+ ![OFF (1)_page-0001](https://github.com/user-attachments/assets/7fdb6455-bd12-4e05-a539-4e67e6e5479b)
+
 
   ## LED ON
-  ![ON](https://github.com/user-attachments/assets/d85237bf-3b9b-4beb-80ac-3bbbf5cb637c)
+  ![OFF (1)_page-0002](https://github.com/user-attachments/assets/e0b0f76d-56d0-42ba-8468-bf8da834149c)
+
 
 
 ## Result
